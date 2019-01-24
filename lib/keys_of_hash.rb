@@ -1,5 +1,4 @@
 class Hash
-  def keys_of(arguments)
-    *arguments
+  def keys_of(*arguments)
   end
 end
